@@ -7,9 +7,9 @@
 * CSS streamlined and organized
 
 ##Links
-* https://github.com/somaiahuthappa/Code-Refactor-Challenge
+* [Source Code](https://github.com/somaiahuthappa/Code-Refactor-Challenge)
 
-* [Page Is Here](https://somaiahuthappa.github.io/Code-Refactor-Challenge/)
+* [Github Page](https://somaiahuthappa.github.io/Code-Refactor-Challenge/)
 
 ## Screenshots
 - ![This a screenshot](/assets/images/Screenshot_1.png)
