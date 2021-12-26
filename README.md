@@ -1,4 +1,4 @@
-# Horiseon Refactor Code Challenge
+# Horiseon Refactor Code Challenge.
 
 ## Purpose: Marketing company requested that the page be made more accessible to help with SEO.
 * Semantics updated.
