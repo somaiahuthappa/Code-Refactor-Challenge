@@ -10,6 +10,6 @@
 * https://github.com/somaiahuthappa/Code-Refactor-Challenge
 
 ## Screenshots
-- ! [This a screenshot] (/assests/images/Screenshot_1.png)
-- ! [This a screenshot] (/assests/images/Screenshot_2.png)
-- ! [This a screenshot] (/assests/images/Screenshot_3.png)
+- ![This a screenshot](/assets/images/Screenshot_1.png)
+- ![This a screenshot](/assets/images/Screenshot_2.png)
+- ![This a screenshot](/assets/images/Screenshot_3.png)
