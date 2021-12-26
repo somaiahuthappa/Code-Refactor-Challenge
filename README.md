@@ -6,7 +6,7 @@
 * Navigation link fixed
 * CSS streamlined and organized
 
-##Links
+## Links
 * [Source Code](https://github.com/somaiahuthappa/Code-Refactor-Challenge)
 
 * [Github Page](https://somaiahuthappa.github.io/Code-Refactor-Challenge/)
